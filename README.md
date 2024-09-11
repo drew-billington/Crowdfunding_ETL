@@ -1,7 +1,7 @@
 # Crowdfunding_ETL
 Project 2 / Module 13 ETL
 
-I was able to import all csv files to Crowdfunding Database tables.  Not sure what else, if anything, I can submit to show this?  
+I was able to import all csv files to Crowdfunding Database tables.  Not sure what else, if anything, I can submit to show this for full 100% credit?  
 
 Notes: 
 - Due to dependencies, must create 'contacts' 'category' and 'subcategory' tables in SQL before creating 'campaign' table
